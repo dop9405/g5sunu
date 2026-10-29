@@ -1,2 +1,2 @@
 # g5sunu
-my first github experience by g5susu
+git with g5sunu
